@@ -1,0 +1,12 @@
+<div class="card card-body mb-3">
+  <form  (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <input type="text" name="text" [(ngModel)]="text" 
+      class="form-control" placeholder="Leave a post...">
+    </div>
+    <input type="submit" value="Add Post" class="btn btn-grey"
+    [disabled]="!this.text">
+    <button (click)="clearState()" type="button" class="btn btn-warning"
+    [hidden]="!this.text">Clear</button>
+  </form>
+</div>
