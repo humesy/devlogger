@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { LogFormComponent } from './components/log-form/log-form.component';
 import { LogsComponent } from './components/logs/logs.component';
+import { HackerProjectsComponent } from './hacker-projects/hacker-projects.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { LogsComponent } from './components/logs/logs.component';
     AppComponent,
     NavbarComponent,
     LogFormComponent,
-    LogsComponent
+    LogsComponent,
+    HackerProjectsComponent
   ],
   imports: [
     BrowserModule,
