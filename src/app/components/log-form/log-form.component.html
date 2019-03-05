@@ -1,4 +1,4 @@
-<div class="card card-body mb-3">
+<!-- <div class="card card-body mb-3">
   <form  (ngSubmit)="onSubmit()">
     <div class="form-group">
       <input type="text" name="text" [(ngModel)]="text" 
@@ -9,4 +9,9 @@
     <button (click)="clearState()" type="button" class="btn btn-warning"
     [hidden]="!this.text">Clear</button>
   </form>
+</div> -->
+
+<div class="card card-body mb-3">
+  <input type="text" name="scrong" [(ngModel)]="scrong">
+  <input type="button" value="Test" class="btn btn-grey" (click)="testFunction()" [disabled]="!this.scrong">
 </div>

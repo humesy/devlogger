@@ -2,11 +2,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
+import { environment } from '../environments/environment';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { LogFormComponent } from './components/log-form/log-form.component';
 import { LogsComponent } from './components/logs/logs.component';
-import { HackerProjectsComponent } from './hacker-projects/hacker-projects.component';
+import { AngularFireModule } from '@angular/fire';
+import { AngularFireFunctionsModule } from '@angular/fire/functions';
+export const firebaseConfig = environment.firebaseConfig;
 
 
 @NgModule({
@@ -14,12 +17,13 @@ import { HackerProjectsComponent } from './hacker-projects/hacker-projects.compo
     AppComponent,
     NavbarComponent,
     LogFormComponent,
-    LogsComponent,
-    HackerProjectsComponent
+    LogsComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    AngularFireModule.initializeApp(firebaseConfig),
+    AngularFireFunctionsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "cloud-function-test-e93a3",
+    "test": "cloud-function-test-e93a3"
+  }
+}
