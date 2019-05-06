@@ -1,0 +1,7 @@
+{
+	"uid": "nLCUlM4Mt0SxBrxn79ieBY5TSwl2",
+	"accessToken": "OrlUevJn4XqKqApXBlv_oi51hY7dpOkkN0FmBqvSQgFXuRynsFsB3a4xKOPpnzDZDy74nizGJ1iRretCYHw",
+	"scope": "team+pullrequest+account+pipeline+snippet+project",
+	"expire": "7200",
+	"tokenType": "bearer"
+}
