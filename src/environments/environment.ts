@@ -12,6 +12,10 @@ export const environment = {
     storageBucket: "cloud-function-test-e93a3.appspot.com",
     messagingSenderId: "617112645830"
   },
+  bitbucketConfig: {
+    key: '9KqDtnZEqcwQBTBZEm',
+    secret: 'p3vYeGKCtHGuDFBLy6CwSAW3wjKnPbuX'
+  },
 };
 
 /*

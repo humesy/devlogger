@@ -1,0 +1,2538 @@
+{
+	".bsl": {
+		"lang": "1C Enterprise"
+	},
+	".os": {
+		"lang": "1C Enterprise"
+	},
+	".abap": {
+		"lang": "ABAP"
+	},
+	".asc": {
+		"lang": "AGS Script"
+	},
+	".ash": {
+		"lang": "AGS Script"
+	},
+	".ampl": {
+		"lang": "AMPL"
+	},
+	".g4": {
+		"lang": "ANTLR"
+	},
+	".apib": {
+		"lang": "API Blueprint"
+	},
+	".apl": {
+		"lang": "APL"
+	},
+	".dyalog": {
+		"lang": "APL"
+	},
+	".asp": {
+		"lang": "ASP"
+	},
+	".asax": {
+		"lang": "ASP"
+	},
+	".ascx": {
+		"lang": "ASP"
+	},
+	".ashx": {
+		"lang": "ASP"
+	},
+	".asmx": {
+		"lang": "ASP"
+	},
+	".aspx": {
+		"lang": "ASP"
+	},
+	".axd": {
+		"lang": "ASP"
+	},
+	".dats": {
+		"lang": "ATS"
+	},
+	".hats": {
+		"lang": "ATS"
+	},
+	".sats": {
+		"lang": "ATS"
+	},
+	".as": {
+		"lang": "ActionScript"
+	},
+	".adb": {
+		"lang": "Ada"
+	},
+	".ada": {
+		"lang": "Ada"
+	},
+	".ads": {
+		"lang": "Ada"
+	},
+	".agda": {
+		"lang": "Agda"
+	},
+	".als": {
+		"lang": "Alloy"
+	},
+	".angelscript": {
+		"lang": "Alpine Abuild"
+	},
+	".cls": {
+		"lang": "Apex"
+	},
+	".agc": {
+		"lang": "Apollo Guidance Computer"
+	},
+	".applescript": {
+		"lang": "AppleScript"
+	},
+	".scpt": {
+		"lang": "AppleScript"
+	},
+	".arc": {
+		"lang": "Arc"
+	},
+	".asciidoc": {
+		"lang": "AsciiDoc"
+	},
+	".adoc": {
+		"lang": "AsciiDoc"
+	},
+	".aj": {
+		"lang": "AspectJ"
+	},
+	".asm": {
+		"lang": "Assembly"
+	},
+	".a51": {
+		"lang": "Assembly"
+	},
+	".nasm": {
+		"lang": "Assembly"
+	},
+	".asy": {
+		"lang": "Asymptote"
+	},
+	".aug": {
+		"lang": "Augeas"
+	},
+	".ahk": {
+		"lang": "AutoHotkey"
+	},
+	".ahkl": {
+		"lang": "AutoHotkey"
+	},
+	".au3": {
+		"lang": "AutoIt"
+	},
+	".awk": {
+		"lang": "Awk"
+	},
+	".auk": {
+		"lang": "Awk"
+	},
+	".gawk": {
+		"lang": "Awk"
+	},
+	".mawk": {
+		"lang": "Awk"
+	},
+	".nawk": {
+		"lang": "Awk"
+	},
+	".bal": {
+		"lang": "Ballerina"
+	},
+	".bat": {
+		"lang": "Batchfile"
+	},
+	".cmd": {
+		"lang": "Batchfile"
+	},
+	".befunge": {
+		"lang": "Befunge"
+	},
+	".bison": {
+		"lang": "Bison"
+	},
+	".blade": {
+		"lang": "Blade"
+	},
+	".bb": {
+		"lang": "BlitzBasic"
+	},
+	".decls": {
+		"lang": "BlitzBasic"
+	},
+	".bmx": {
+		"lang": "BlitzMax"
+	},
+	".bsv": {
+		"lang": "Bluespec"
+	},
+	".boo": {
+		"lang": "Boo"
+	},
+	".bf": {
+		"lang": "Brainfuck"
+	},
+	".brs": {
+		"lang": "Brightscript"
+	},
+	".bro": {
+		"lang": "Bro"
+	},
+	".c": {
+		"lang": "C"
+	},
+	".cats": {
+		"lang": "C"
+	},
+	".h": {
+		"lang": "C"
+	},
+	".idc": {
+		"lang": "C"
+	},
+	".cs": {
+		"lang": "C#"
+	},
+	".cake": {
+		"lang": "C#"
+	},
+	".csx": {
+		"lang": "C#"
+	},
+	".cpp": {
+		"lang": "C++"
+	},
+	".c++": {
+		"lang": "C++"
+	},
+	".cc": {
+		"lang": "C++"
+	},
+	".cxx": {
+		"lang": "C++"
+	},
+	".h++": {
+		"lang": "C++"
+	},
+	".hpp": {
+		"lang": "C++"
+	},
+	".hxx": {
+		"lang": "C++"
+	},
+	".inl": {
+		"lang": "C++"
+	},
+	".ino": {
+		"lang": "C++"
+	},
+	".ipp": {
+		"lang": "C++"
+	},
+	".tcc": {
+		"lang": "C++"
+	},
+	".tpp": {
+		"lang": "C++"
+	},
+	".chs": {
+		"lang": "C2hs Haskell"
+	},
+	".clp": {
+		"lang": "CLIPS"
+	},
+	".cmake": {
+		"lang": "CMake"
+	},
+	".cmake.in": {
+		"lang": "CMake"
+	},
+	".cob": {
+		"lang": "COBOL"
+	},
+	".cbl": {
+		"lang": "COBOL"
+	},
+	".ccp": {
+		"lang": "COBOL"
+	},
+	".cobol": {
+		"lang": "COBOL"
+	},
+	".cpy": {
+		"lang": "COBOL"
+	},
+	".css": {
+		"lang": "CSS"
+	},
+	".w": {
+		"lang": "CWeb"
+	},
+	".capnp": {
+		"lang": "Cap'n Proto"
+	},
+	".mss": {
+		"lang": "CartoCSS"
+	},
+	".ceylon": {
+		"lang": "Ceylon"
+	},
+	".chpl": {
+		"lang": "Chapel"
+	},
+	".ch": {
+		"lang": "Charity"
+	},
+	".ck": {
+		"lang": "ChucK"
+	},
+	".cirru": {
+		"lang": "Cirru"
+	},
+	".clw": {
+		"lang": "Clarion"
+	},
+	".icl": {
+		"lang": "Clean"
+	},
+	".dcl": {
+		"lang": "Clean"
+	},
+	".click": {
+		"lang": "Click"
+	},
+	".clj": {
+		"lang": "Clojure"
+	},
+	".boot": {
+		"lang": "Clojure"
+	},
+	".cl2": {
+		"lang": "Clojure"
+	},
+	".cljc": {
+		"lang": "Clojure"
+	},
+	".cljs": {
+		"lang": "Clojure"
+	},
+	".cljs.hl": {
+		"lang": "Clojure"
+	},
+	".cljscm": {
+		"lang": "Clojure"
+	},
+	".cljx": {
+		"lang": "Clojure"
+	},
+	".hic": {
+		"lang": "Clojure"
+	},
+	".soy": {
+		"lang": "Closure Templates"
+	},
+	".coffee": {
+		"lang": "CoffeeScript"
+	},
+	"._coffee": {
+		"lang": "CoffeeScript"
+	},
+	".cjsx": {
+		"lang": "CoffeeScript"
+	},
+	".iced": {
+		"lang": "CoffeeScript"
+	},
+	".cfm": {
+		"lang": "ColdFusion"
+	},
+	".cfml": {
+		"lang": "ColdFusion"
+	},
+	".cfc": {
+		"lang": "ColdFusion CFC"
+	},
+	".lisp": {
+		"lang": "Common Lisp"
+	},
+	".asd": {
+		"lang": "Common Lisp"
+	},
+	".ny": {
+		"lang": "Common Lisp"
+	},
+	".podsl": {
+		"lang": "Common Lisp"
+	},
+	".sexp": {
+		"lang": "Common Lisp"
+	},
+	".cwl": {
+		"lang": "Common Workflow Language"
+	},
+	".cp": {
+		"lang": "Component Pascal"
+	},
+	".cps": {
+		"lang": "Component Pascal"
+	},
+	".coq": {
+		"lang": "Coq"
+	},
+	".creole": {
+		"lang": "Creole"
+	},
+	".cr": {
+		"lang": "Crystal"
+	},
+	".orc": {
+		"lang": "Csound"
+	},
+	".udo": {
+		"lang": "Csound"
+	},
+	".csd": {
+		"lang": "Csound Document"
+	},
+	".sco": {
+		"lang": "Csound Score"
+	},
+	".cu": {
+		"lang": "Cuda"
+	},
+	".cuh": {
+		"lang": "Cuda"
+	},
+	".cy": {
+		"lang": "Cycript"
+	},
+	".pyx": {
+		"lang": "Cython"
+	},
+	".pxd": {
+		"lang": "Cython"
+	},
+	".pxi": {
+		"lang": "Cython"
+	},
+	".d": {
+		"lang": "D"
+	},
+	".di": {
+		"lang": "D"
+	},
+	".com": {
+		"lang": "DIGITAL Command Language"
+	},
+	".dm": {
+		"lang": "DM"
+	},
+	".dart": {
+		"lang": "Dart"
+	},
+	".dwl": {
+		"lang": "DataWeave"
+	},
+	".dockerfile": {
+		"lang": "Dockerfile"
+	},
+	".djs": {
+		"lang": "Dogescript"
+	},
+	".dylan": {
+		"lang": "Dylan"
+	},
+	".dyl": {
+		"lang": "Dylan"
+	},
+	".intr": {
+		"lang": "Dylan"
+	},
+	".lid": {
+		"lang": "Dylan"
+	},
+	".E": {
+		"lang": "E"
+	},
+	".ecl": {
+		"lang": "ECL"
+	},
+	".eclxml": {
+		"lang": "ECL"
+	},
+	".ejs": {
+		"lang": "EJS"
+	},
+	".eq": {
+		"lang": "EQ"
+	},
+	".e": {
+		"lang": "Eiffel"
+	},
+	".ex": {
+		"lang": "Elixir"
+	},
+	".exs": {
+		"lang": "Elixir"
+	},
+	".elm": {
+		"lang": "Elm"
+	},
+	".el": {
+		"lang": "Emacs Lisp"
+	},
+	".emacs": {
+		"lang": "Emacs Lisp"
+	},
+	".emacs.desktop": {
+		"lang": "Emacs Lisp"
+	},
+	".em": {
+		"lang": "EmberScript"
+	},
+	".emberscript": {
+		"lang": "EmberScript"
+	},
+	".erl": {
+		"lang": "Erlang"
+	},
+	".app.src": {
+		"lang": "Erlang"
+	},
+	".es": {
+		"lang": "Erlang"
+	},
+	".escript": {
+		"lang": "Erlang"
+	},
+	".hrl": {
+		"lang": "Erlang"
+	},
+	".xrl": {
+		"lang": "Erlang"
+	},
+	".yrl": {
+		"lang": "Erlang"
+	},
+	".fsi": {
+		"lang": "F#"
+	},
+	".fsx": {
+		"lang": "F#"
+	},
+	".fst": {
+		"lang": "F*"
+	},
+	".fx": {
+		"lang": "FLUX"
+	},
+	".flux": {
+		"lang": "FLUX"
+	},
+	".factor": {
+		"lang": "Factor"
+	},
+	".fy": {
+		"lang": "Fancy"
+	},
+	".fancypack": {
+		"lang": "Fancy"
+	},
+	".fan": {
+		"lang": "Fantom"
+	},
+	".f": {
+		"lang": "Filebench WML"
+	},
+	".fs": {
+		"lang": "Filterscript"
+	},
+	".fth": {
+		"lang": "Forth"
+	},
+	".4th": {
+		"lang": "Forth"
+	},
+	".for": {
+		"lang": "Forth"
+	},
+	".forth": {
+		"lang": "Forth"
+	},
+	".frt": {
+		"lang": "Forth"
+	},
+	".f90": {
+		"lang": "Fortran"
+	},
+	".f03": {
+		"lang": "Fortran"
+	},
+	".f08": {
+		"lang": "Fortran"
+	},
+	".f77": {
+		"lang": "Fortran"
+	},
+	".f95": {
+		"lang": "Fortran"
+	},
+	".fpp": {
+		"lang": "Fortran"
+	},
+	".ftl": {
+		"lang": "FreeMarker"
+	},
+	".fr": {
+		"lang": "Frege"
+	},
+	".gms": {
+		"lang": "GAMS"
+	},
+	".g": {
+		"lang": "GAP"
+	},
+	".gap": {
+		"lang": "GAP"
+	},
+	".gi": {
+		"lang": "GAP"
+	},
+	".gdb": {
+		"lang": "GDB"
+	},
+	".gdbinit": {
+		"lang": "GDB"
+	},
+	".gd": {
+		"lang": "GDScript"
+	},
+	".glsl": {
+		"lang": "GLSL"
+	},
+	".fp": {
+		"lang": "GLSL"
+	},
+	".frag": {
+		"lang": "GLSL"
+	},
+	".frg": {
+		"lang": "GLSL"
+	},
+	".fsh": {
+		"lang": "GLSL"
+	},
+	".fshader": {
+		"lang": "GLSL"
+	},
+	".geo": {
+		"lang": "GLSL"
+	},
+	".geom": {
+		"lang": "GLSL"
+	},
+	".glslv": {
+		"lang": "GLSL"
+	},
+	".gshader": {
+		"lang": "GLSL"
+	},
+	".tesc": {
+		"lang": "GLSL"
+	},
+	".tese": {
+		"lang": "GLSL"
+	},
+	".vert": {
+		"lang": "GLSL"
+	},
+	".vrx": {
+		"lang": "GLSL"
+	},
+	".vsh": {
+		"lang": "GLSL"
+	},
+	".vshader": {
+		"lang": "GLSL"
+	},
+	".gml": {
+		"lang": "Game Maker Language"
+	},
+	".kid": {
+		"lang": "Genshi"
+	},
+	".ebuild": {
+		"lang": "Gentoo Ebuild"
+	},
+	".eclass": {
+		"lang": "Gentoo Eclass"
+	},
+	".po": {
+		"lang": "Gettext Catalog"
+	},
+	".pot": {
+		"lang": "Gettext Catalog"
+	},
+	".feature": {
+		"lang": "Gherkin"
+	},
+	".glf": {
+		"lang": "Glyph"
+	},
+	".gp": {
+		"lang": "Gnuplot"
+	},
+	".gnu": {
+		"lang": "Gnuplot"
+	},
+	".gnuplot": {
+		"lang": "Gnuplot"
+	},
+	".plot": {
+		"lang": "Gnuplot"
+	},
+	".plt": {
+		"lang": "Gnuplot"
+	},
+	".go": {
+		"lang": "Go"
+	},
+	".golo": {
+		"lang": "Golo"
+	},
+	".gs": {
+		"lang": "Gosu"
+	},
+	".gst": {
+		"lang": "Gosu"
+	},
+	".gsx": {
+		"lang": "Gosu"
+	},
+	".vark": {
+		"lang": "Gosu"
+	},
+	".grace": {
+		"lang": "Grace"
+	},
+	".gf": {
+		"lang": "Grammatical Framework"
+	},
+	".groovy": {
+		"lang": "Groovy"
+	},
+	".grt": {
+		"lang": "Groovy"
+	},
+	".gtpl": {
+		"lang": "Groovy"
+	},
+	".gvy": {
+		"lang": "Groovy"
+	},
+	".gsp": {
+		"lang": "Groovy Server Pages"
+	},
+	".hcl": {
+		"lang": "HCL"
+	},
+	".tf": {
+		"lang": "HCL"
+	},
+	".tfvars": {
+		"lang": "HCL"
+	},
+	".workflow": {
+		"lang": "HCL"
+	},
+	".hlsl": {
+		"lang": "HLSL"
+	},
+	".cginc": {
+		"lang": "HLSL"
+	},
+	".fxh": {
+		"lang": "HLSL"
+	},
+	".hlsli": {
+		"lang": "HLSL"
+	},
+	".html": {
+		"lang": "HTML"
+	},
+	".htm": {
+		"lang": "HTML"
+	},
+	".html.hl": {
+		"lang": "HTML"
+	},
+	".xht": {
+		"lang": "HTML"
+	},
+	".xhtml": {
+		"lang": "HTML"
+	},
+	".jinja": {
+		"lang": "HTML+Django"
+	},
+	".jinja2": {
+		"lang": "HTML+Django"
+	},
+	".mustache": {
+		"lang": "HTML+Django"
+	},
+	".njk": {
+		"lang": "HTML+Django"
+	},
+	".ecr": {
+		"lang": "HTML+ECR"
+	},
+	".eex": {
+		"lang": "HTML+EEX"
+	},
+	".erb": {
+		"lang": "HTML+ERB"
+	},
+	".erb.deface": {
+		"lang": "HTML+ERB"
+	},
+	".phtml": {
+		"lang": "HTML+PHP"
+	},
+	".cshtml": {
+		"lang": "HTML+Razor"
+	},
+	".hh": {
+		"lang": "Hack"
+	},
+	".haml": {
+		"lang": "Haml"
+	},
+	".haml.deface": {
+		"lang": "Haml"
+	},
+	".handlebars": {
+		"lang": "Handlebars"
+	},
+	".hbs": {
+		"lang": "Handlebars"
+	},
+	".hb": {
+		"lang": "Harbour"
+	},
+	".hs": {
+		"lang": "Haskell"
+	},
+	".hsc": {
+		"lang": "Haskell"
+	},
+	".hx": {
+		"lang": "Haxe"
+	},
+	".hxsl": {
+		"lang": "Haxe"
+	},
+	".hy": {
+		"lang": "Hy"
+	},
+	".dlm": {
+		"lang": "IDL"
+	},
+	".ipf": {
+		"lang": "IGOR Pro"
+	},
+	".idr": {
+		"lang": "Idris"
+	},
+	".lidr": {
+		"lang": "Idris"
+	},
+	".ni": {
+		"lang": "Inform 7"
+	},
+	".i7x": {
+		"lang": "Inform 7"
+	},
+	".iss": {
+		"lang": "Inno Setup"
+	},
+	".io": {
+		"lang": "Io"
+	},
+	".ik": {
+		"lang": "Ioke"
+	},
+	".thy": {
+		"lang": "Isabelle"
+	},
+	".ijs": {
+		"lang": "Isabelle ROOT"
+	},
+	".flex": {
+		"lang": "JFlex"
+	},
+	".jflex": {
+		"lang": "JFlex"
+	},
+	".jq": {
+		"lang": "JSONiq"
+	},
+	".jsx": {
+		"lang": "JSX"
+	},
+	".j": {
+		"lang": "Jasmin"
+	},
+	".java": {
+		"lang": "Java"
+	},
+	".jsp": {
+		"lang": "Java Server Pages"
+	},
+	".js": {
+		"lang": "JavaScript"
+	},
+	"._js": {
+		"lang": "JavaScript"
+	},
+	".bones": {
+		"lang": "JavaScript"
+	},
+	".es6": {
+		"lang": "JavaScript"
+	},
+	".jake": {
+		"lang": "JavaScript"
+	},
+	".jsb": {
+		"lang": "JavaScript"
+	},
+	".jscad": {
+		"lang": "JavaScript"
+	},
+	".jsfl": {
+		"lang": "JavaScript"
+	},
+	".jsm": {
+		"lang": "JavaScript"
+	},
+	".jss": {
+		"lang": "JavaScript"
+	},
+	".mjs": {
+		"lang": "JavaScript"
+	},
+	".njs": {
+		"lang": "JavaScript"
+	},
+	".pac": {
+		"lang": "JavaScript"
+	},
+	".sjs": {
+		"lang": "JavaScript"
+	},
+	".ssjs": {
+		"lang": "JavaScript"
+	},
+	".xsjs": {
+		"lang": "JavaScript"
+	},
+	".xsjslib": {
+		"lang": "JavaScript"
+	},
+	".jison": {
+		"lang": "Jison"
+	},
+	".jisonlex": {
+		"lang": "Jison Lex"
+	},
+	".ol": {
+		"lang": "Jolie"
+	},
+	".iol": {
+		"lang": "Jolie"
+	},
+	".jsonnet": {
+		"lang": "Jsonnet"
+	},
+	".libsonnet": {
+		"lang": "Jsonnet"
+	},
+	".jl": {
+		"lang": "Julia"
+	},
+	".ipynb": {
+		"lang": "Jupyter Notebook"
+	},
+	".krl": {
+		"lang": "KRL"
+	},
+	".kit": {
+		"lang": "Kit"
+	},
+	".kt": {
+		"lang": "Kotlin"
+	},
+	".ktm": {
+		"lang": "Kotlin"
+	},
+	".kts": {
+		"lang": "Kotlin"
+	},
+	".lfe": {
+		"lang": "LFE"
+	},
+	".ll": {
+		"lang": "LLVM"
+	},
+	".lol": {
+		"lang": "LOLCODE"
+	},
+	".lsl": {
+		"lang": "LSL"
+	},
+	".lslp": {
+		"lang": "LSL"
+	},
+	".lvproj": {
+		"lang": "LabVIEW"
+	},
+	".lasso": {
+		"lang": "Lasso"
+	},
+	".las": {
+		"lang": "Lasso"
+	},
+	".lasso8": {
+		"lang": "Lasso"
+	},
+	".lasso9": {
+		"lang": "Lasso"
+	},
+	".ldml": {
+		"lang": "Lasso"
+	},
+	".latte": {
+		"lang": "Latte"
+	},
+	".lean": {
+		"lang": "Lean"
+	},
+	".hlean": {
+		"lang": "Lean"
+	},
+	".less": {
+		"lang": "Less"
+	},
+	".lex": {
+		"lang": "Lex"
+	},
+	".ly": {
+		"lang": "LilyPond"
+	},
+	".ily": {
+		"lang": "LilyPond"
+	},
+	".b": {
+		"lang": "Limbo"
+	},
+	".liquid": {
+		"lang": "Liquid"
+	},
+	".lagda": {
+		"lang": "Literate Agda"
+	},
+	".litcoffee": {
+		"lang": "Literate CoffeeScript"
+	},
+	".lhs": {
+		"lang": "Literate Haskell"
+	},
+	".ls": {
+		"lang": "LiveScript"
+	},
+	"._ls": {
+		"lang": "LiveScript"
+	},
+	".xm": {
+		"lang": "Logos"
+	},
+	".xi": {
+		"lang": "Logos"
+	},
+	".lgt": {
+		"lang": "Logtalk"
+	},
+	".logtalk": {
+		"lang": "Logtalk"
+	},
+	".lookml": {
+		"lang": "LookML"
+	},
+	".model.lkml": {
+		"lang": "LookML"
+	},
+	".view.lkml": {
+		"lang": "LookML"
+	},
+	".lua": {
+		"lang": "Lua"
+	},
+	".nse": {
+		"lang": "Lua"
+	},
+	".p8": {
+		"lang": "Lua"
+	},
+	".pd_lua": {
+		"lang": "Lua"
+	},
+	".rbxs": {
+		"lang": "Lua"
+	},
+	".wlua": {
+		"lang": "Lua"
+	},
+	".mumps": {
+		"lang": "M"
+	},
+	".m4": {
+		"lang": "M4"
+	},
+	".matlab": {
+		"lang": "MATLAB"
+	},
+	".ms": {
+		"lang": "MAXScript"
+	},
+	".mcr": {
+		"lang": "MAXScript"
+	},
+	".mq4": {
+		"lang": "MQL4"
+	},
+	".mq5": {
+		"lang": "MQL5"
+	},
+	".mtml": {
+		"lang": "MTML"
+	},
+	".muf": {
+		"lang": "MUF"
+	},
+	".mak": {
+		"lang": "Makefile"
+	},
+	".make": {
+		"lang": "Makefile"
+	},
+	".mk": {
+		"lang": "Makefile"
+	},
+	".mkfile": {
+		"lang": "Makefile"
+	},
+	".mako": {
+		"lang": "Mako"
+	},
+	".mao": {
+		"lang": "Mako"
+	},
+	".md": {
+		"lang": "Markdown"
+	},
+	".markdown": {
+		"lang": "Markdown"
+	},
+	".mdown": {
+		"lang": "Markdown"
+	},
+	".mdwn": {
+		"lang": "Markdown"
+	},
+	".mdx": {
+		"lang": "Markdown"
+	},
+	".mkd": {
+		"lang": "Markdown"
+	},
+	".mkdn": {
+		"lang": "Markdown"
+	},
+	".mkdown": {
+		"lang": "Markdown"
+	},
+	".ronn": {
+		"lang": "Markdown"
+	},
+	".workbook": {
+		"lang": "Markdown"
+	},
+	".marko": {
+		"lang": "Marko"
+	},
+	".mask": {
+		"lang": "Mask"
+	},
+	".mathematica": {
+		"lang": "Mathematica"
+	},
+	".cdf": {
+		"lang": "Mathematica"
+	},
+	".ma": {
+		"lang": "Mathematica"
+	},
+	".mt": {
+		"lang": "Mathematica"
+	},
+	".nb": {
+		"lang": "Mathematica"
+	},
+	".nbp": {
+		"lang": "Mathematica"
+	},
+	".wl": {
+		"lang": "Mathematica"
+	},
+	".wlt": {
+		"lang": "Mathematica"
+	},
+	".maxpat": {
+		"lang": "Max"
+	},
+	".maxhelp": {
+		"lang": "Max"
+	},
+	".maxproj": {
+		"lang": "Max"
+	},
+	".mxt": {
+		"lang": "Max"
+	},
+	".pat": {
+		"lang": "Max"
+	},
+	".mediawiki": {
+		"lang": "MediaWiki"
+	},
+	".wiki": {
+		"lang": "MediaWiki"
+	},
+	".metal": {
+		"lang": "Meson"
+	},
+	".minid": {
+		"lang": "MiniD"
+	},
+	".druby": {
+		"lang": "Mirah"
+	},
+	".duby": {
+		"lang": "Mirah"
+	},
+	".mirah": {
+		"lang": "Mirah"
+	},
+	".mo": {
+		"lang": "Modelica"
+	},
+	".mod": {
+		"lang": "Modula-2"
+	},
+	".i3": {
+		"lang": "Modula-3"
+	},
+	".ig": {
+		"lang": "Modula-3"
+	},
+	".m3": {
+		"lang": "Modula-3"
+	},
+	".mg": {
+		"lang": "Modula-3"
+	},
+	".mms": {
+		"lang": "Module Management System"
+	},
+	".mmk": {
+		"lang": "Module Management System"
+	},
+	".monkey": {
+		"lang": "Monkey"
+	},
+	".monkey2": {
+		"lang": "Monkey"
+	},
+	".moo": {
+		"lang": "Moocode"
+	},
+	".moon": {
+		"lang": "MoonScript"
+	},
+	".myt": {
+		"lang": "Myghty"
+	},
+	".ncl": {
+		"lang": "NCL"
+	},
+	".nsi": {
+		"lang": "NSIS"
+	},
+	".nsh": {
+		"lang": "NSIS"
+	},
+	".ne": {
+		"lang": "Nearley"
+	},
+	".nearley": {
+		"lang": "Nearley"
+	},
+	".n": {
+		"lang": "Nemerle"
+	},
+	".axs": {
+		"lang": "NetLinx"
+	},
+	".axi": {
+		"lang": "NetLinx"
+	},
+	".axs.erb": {
+		"lang": "NetLinx+ERB"
+	},
+	".axi.erb": {
+		"lang": "NetLinx+ERB"
+	},
+	".nlogo": {
+		"lang": "NetLogo"
+	},
+	".nl": {
+		"lang": "NewLisp"
+	},
+	".lsp": {
+		"lang": "NewLisp"
+	},
+	".nf": {
+		"lang": "Nextflow"
+	},
+	".nim": {
+		"lang": "Nim"
+	},
+	".nim.cfg": {
+		"lang": "Nim"
+	},
+	".nimble": {
+		"lang": "Nim"
+	},
+	".nimrod": {
+		"lang": "Nim"
+	},
+	".nims": {
+		"lang": "Nim"
+	},
+	".nit": {
+		"lang": "Nit"
+	},
+	".nix": {
+		"lang": "Nix"
+	},
+	".nu": {
+		"lang": "Nu"
+	},
+	".numpy": {
+		"lang": "NumPy"
+	},
+	".numpyw": {
+		"lang": "NumPy"
+	},
+	".numsc": {
+		"lang": "NumPy"
+	},
+	".ml": {
+		"lang": "OCaml"
+	},
+	".eliom": {
+		"lang": "OCaml"
+	},
+	".eliomi": {
+		"lang": "OCaml"
+	},
+	".ml4": {
+		"lang": "OCaml"
+	},
+	".mli": {
+		"lang": "OCaml"
+	},
+	".mll": {
+		"lang": "OCaml"
+	},
+	".mly": {
+		"lang": "OCaml"
+	},
+	".m": {
+		"lang": "Objective-C"
+	},
+	".mm": {
+		"lang": "Objective-C++"
+	},
+	".sj": {
+		"lang": "Objective-J"
+	},
+	".omgrofl": {
+		"lang": "Omgrofl"
+	},
+	".opa": {
+		"lang": "Opa"
+	},
+	".opal": {
+		"lang": "Opal"
+	},
+	".cl": {
+		"lang": "OpenCL"
+	},
+	".opencl": {
+		"lang": "OpenCL"
+	},
+	".p": {
+		"lang": "OpenEdge ABL"
+	},
+	".scad": {
+		"lang": "OpenRC runscript"
+	},
+	".org": {
+		"lang": "Org"
+	},
+	".ox": {
+		"lang": "Ox"
+	},
+	".oxh": {
+		"lang": "Ox"
+	},
+	".oxo": {
+		"lang": "Ox"
+	},
+	".oxygene": {
+		"lang": "Oxygene"
+	},
+	".oz": {
+		"lang": "Oz"
+	},
+	".p4": {
+		"lang": "P4"
+	},
+	".php": {
+		"lang": "PHP"
+	},
+	".aw": {
+		"lang": "PHP"
+	},
+	".ctp": {
+		"lang": "PHP"
+	},
+	".php3": {
+		"lang": "PHP"
+	},
+	".php4": {
+		"lang": "PHP"
+	},
+	".php5": {
+		"lang": "PHP"
+	},
+	".phps": {
+		"lang": "PHP"
+	},
+	".phpt": {
+		"lang": "PHP"
+	},
+	".pls": {
+		"lang": "PLSQL"
+	},
+	".bdy": {
+		"lang": "PLSQL"
+	},
+	".ddl": {
+		"lang": "PLSQL"
+	},
+	".fnc": {
+		"lang": "PLSQL"
+	},
+	".pck": {
+		"lang": "PLSQL"
+	},
+	".pkb": {
+		"lang": "PLSQL"
+	},
+	".pks": {
+		"lang": "PLSQL"
+	},
+	".plb": {
+		"lang": "PLSQL"
+	},
+	".plsql": {
+		"lang": "PLSQL"
+	},
+	".prc": {
+		"lang": "PLSQL"
+	},
+	".spc": {
+		"lang": "PLSQL"
+	},
+	".tpb": {
+		"lang": "PLSQL"
+	},
+	".tps": {
+		"lang": "PLSQL"
+	},
+	".trg": {
+		"lang": "PLSQL"
+	},
+	".vw": {
+		"lang": "PLSQL"
+	},
+	".pgsql": {
+		"lang": "PLpgSQL"
+	},
+	".pov": {
+		"lang": "POV-Ray SDL"
+	},
+	".inc": {
+		"lang": "POV-Ray SDL"
+	},
+	".pan": {
+		"lang": "Pan"
+	},
+	".psc": {
+		"lang": "Papyrus"
+	},
+	".parrot": {
+		"lang": "Parrot"
+	},
+	".pasm": {
+		"lang": "Parrot Assembly"
+	},
+	".pir": {
+		"lang": "Parrot Internal Representation"
+	},
+	".pas": {
+		"lang": "Pascal"
+	},
+	".dfm": {
+		"lang": "Pascal"
+	},
+	".dpr": {
+		"lang": "Pascal"
+	},
+	".lpr": {
+		"lang": "Pascal"
+	},
+	".pascal": {
+		"lang": "Pascal"
+	},
+	".pwn": {
+		"lang": "Pawn"
+	},
+	".pep": {
+		"lang": "Pep8"
+	},
+	".pl": {
+		"lang": "Perl"
+	},
+	".al": {
+		"lang": "Perl"
+	},
+	".perl": {
+		"lang": "Perl"
+	},
+	".ph": {
+		"lang": "Perl"
+	},
+	".plx": {
+		"lang": "Perl"
+	},
+	".pm": {
+		"lang": "Perl"
+	},
+	".psgi": {
+		"lang": "Perl"
+	},
+	".6pl": {
+		"lang": "Perl 6"
+	},
+	".6pm": {
+		"lang": "Perl 6"
+	},
+	".nqp": {
+		"lang": "Perl 6"
+	},
+	".p6": {
+		"lang": "Perl 6"
+	},
+	".p6l": {
+		"lang": "Perl 6"
+	},
+	".p6m": {
+		"lang": "Perl 6"
+	},
+	".pl6": {
+		"lang": "Perl 6"
+	},
+	".pm6": {
+		"lang": "Perl 6"
+	},
+	".pic": {
+		"lang": "Pic"
+	},
+	".chem": {
+		"lang": "Pic"
+	},
+	".l": {
+		"lang": "PicoLisp"
+	},
+	".pig": {
+		"lang": "PigLatin"
+	},
+	".pike": {
+		"lang": "Pike"
+	},
+	".pmod": {
+		"lang": "Pike"
+	},
+	".pod": {
+		"lang": "Pod"
+	},
+	".pod6": {
+		"lang": "Pod 6"
+	},
+	".pogo": {
+		"lang": "PogoScript"
+	},
+	".pony": {
+		"lang": "Pony"
+	},
+	".pcss": {
+		"lang": "PostCSS"
+	},
+	".ps": {
+		"lang": "PostScript"
+	},
+	".eps": {
+		"lang": "PostScript"
+	},
+	".pfa": {
+		"lang": "PostScript"
+	},
+	".pbt": {
+		"lang": "PowerBuilder"
+	},
+	".sra": {
+		"lang": "PowerBuilder"
+	},
+	".sru": {
+		"lang": "PowerBuilder"
+	},
+	".srw": {
+		"lang": "PowerBuilder"
+	},
+	".ps1": {
+		"lang": "PowerShell"
+	},
+	".psd1": {
+		"lang": "PowerShell"
+	},
+	".psm1": {
+		"lang": "PowerShell"
+	},
+	".pde": {
+		"lang": "Processing"
+	},
+	".pro": {
+		"lang": "Prolog"
+	},
+	".prolog": {
+		"lang": "Prolog"
+	},
+	".yap": {
+		"lang": "Prolog"
+	},
+	".spin": {
+		"lang": "Propeller Spin"
+	},
+	".jade": {
+		"lang": "Pug"
+	},
+	".pug": {
+		"lang": "Pug"
+	},
+	".pp": {
+		"lang": "Puppet"
+	},
+	".pb": {
+		"lang": "PureBasic"
+	},
+	".pbi": {
+		"lang": "PureBasic"
+	},
+	".purs": {
+		"lang": "PureScript"
+	},
+	".py": {
+		"lang": "Python"
+	},
+	".bzl": {
+		"lang": "Python"
+	},
+	".gyp": {
+		"lang": "Python"
+	},
+	".gypi": {
+		"lang": "Python"
+	},
+	".lmi": {
+		"lang": "Python"
+	},
+	".py3": {
+		"lang": "Python"
+	},
+	".pyde": {
+		"lang": "Python"
+	},
+	".pyi": {
+		"lang": "Python"
+	},
+	".pyp": {
+		"lang": "Python"
+	},
+	".pyt": {
+		"lang": "Python"
+	},
+	".pyw": {
+		"lang": "Python"
+	},
+	".tac": {
+		"lang": "Python"
+	},
+	".wsgi": {
+		"lang": "Python"
+	},
+	".xpy": {
+		"lang": "Python"
+	},
+	".qml": {
+		"lang": "Python console"
+	},
+	".qbs": {
+		"lang": "Python console"
+	},
+	".pri": {
+		"lang": "QMake"
+	},
+	".r": {
+		"lang": "Quake"
+	},
+	".rd": {
+		"lang": "Quake"
+	},
+	".rsx": {
+		"lang": "Quake"
+	},
+	".raml": {
+		"lang": "RAML"
+	},
+	".rdoc": {
+		"lang": "RDoc"
+	},
+	".rbbas": {
+		"lang": "REALbasic"
+	},
+	".rbfrm": {
+		"lang": "REALbasic"
+	},
+	".rbmnu": {
+		"lang": "REALbasic"
+	},
+	".rbres": {
+		"lang": "REALbasic"
+	},
+	".rbtbar": {
+		"lang": "REALbasic"
+	},
+	".rbuistate": {
+		"lang": "REALbasic"
+	},
+	".rexx": {
+		"lang": "REXX"
+	},
+	".pprx": {
+		"lang": "REXX"
+	},
+	".rex": {
+		"lang": "REXX"
+	},
+	".rhtml": {
+		"lang": "RHTML"
+	},
+	".rmd": {
+		"lang": "RMarkdown"
+	},
+	".x": {
+		"lang": "RPC"
+	},
+	".rnh": {
+		"lang": "RUNOFF"
+	},
+	".rno": {
+		"lang": "RUNOFF"
+	},
+	".rkt": {
+		"lang": "Racket"
+	},
+	".rktd": {
+		"lang": "Racket"
+	},
+	".rktl": {
+		"lang": "Racket"
+	},
+	".scrbl": {
+		"lang": "Racket"
+	},
+	".rl": {
+		"lang": "Ragel"
+	},
+	".rsc": {
+		"lang": "Rascal"
+	},
+	".re": {
+		"lang": "Reason"
+	},
+	".rei": {
+		"lang": "Reason"
+	},
+	".reb": {
+		"lang": "Rebol"
+	},
+	".r2": {
+		"lang": "Rebol"
+	},
+	".r3": {
+		"lang": "Rebol"
+	},
+	".rebol": {
+		"lang": "Rebol"
+	},
+	".red": {
+		"lang": "Red"
+	},
+	".reds": {
+		"lang": "Red"
+	},
+	".cw": {
+		"lang": "Redcode"
+	},
+	".rpy": {
+		"lang": "Ren'Py"
+	},
+	".rsh": {
+		"lang": "RenderScript"
+	},
+	".rtf": {
+		"lang": "Rich Text Format"
+	},
+	".ring": {
+		"lang": "Ring"
+	},
+	".robot": {
+		"lang": "RobotFramework"
+	},
+	".roff": {
+		"lang": "Roff"
+	},
+	".1in": {
+		"lang": "Roff"
+	},
+	".1m": {
+		"lang": "Roff"
+	},
+	".1x": {
+		"lang": "Roff"
+	},
+	".2": {
+		"lang": "Roff"
+	},
+	".3": {
+		"lang": "Roff"
+	},
+	".3in": {
+		"lang": "Roff"
+	},
+	".3m": {
+		"lang": "Roff"
+	},
+	".3p": {
+		"lang": "Roff"
+	},
+	".3pm": {
+		"lang": "Roff"
+	},
+	".3qt": {
+		"lang": "Roff"
+	},
+	".3x": {
+		"lang": "Roff"
+	},
+	".4": {
+		"lang": "Roff"
+	},
+	".5": {
+		"lang": "Roff"
+	},
+	".6": {
+		"lang": "Roff"
+	},
+	".7": {
+		"lang": "Roff"
+	},
+	".8": {
+		"lang": "Roff"
+	},
+	".9": {
+		"lang": "Roff"
+	},
+	".man": {
+		"lang": "Roff"
+	},
+	".mdoc": {
+		"lang": "Roff"
+	},
+	".me": {
+		"lang": "Roff"
+	},
+	".nr": {
+		"lang": "Roff"
+	},
+	".tmac": {
+		"lang": "Roff"
+	},
+	".rg": {
+		"lang": "Rouge"
+	},
+	".rb": {
+		"lang": "Ruby"
+	},
+	".builder": {
+		"lang": "Ruby"
+	},
+	".eye": {
+		"lang": "Ruby"
+	},
+	".gemspec": {
+		"lang": "Ruby"
+	},
+	".god": {
+		"lang": "Ruby"
+	},
+	".jbuilder": {
+		"lang": "Ruby"
+	},
+	".mspec": {
+		"lang": "Ruby"
+	},
+	".pluginspec": {
+		"lang": "Ruby"
+	},
+	".podspec": {
+		"lang": "Ruby"
+	},
+	".rabl": {
+		"lang": "Ruby"
+	},
+	".rake": {
+		"lang": "Ruby"
+	},
+	".rbuild": {
+		"lang": "Ruby"
+	},
+	".rbw": {
+		"lang": "Ruby"
+	},
+	".rbx": {
+		"lang": "Ruby"
+	},
+	".ru": {
+		"lang": "Ruby"
+	},
+	".ruby": {
+		"lang": "Ruby"
+	},
+	".spec": {
+		"lang": "Ruby"
+	},
+	".thor": {
+		"lang": "Ruby"
+	},
+	".watchr": {
+		"lang": "Ruby"
+	},
+	".rs": {
+		"lang": "Rust"
+	},
+	".sas": {
+		"lang": "SAS"
+	},
+	".scss": {
+		"lang": "SCSS"
+	},
+	".smt2": {
+		"lang": "SMT"
+	},
+	".smt": {
+		"lang": "SMT"
+	},
+	".sqf": {
+		"lang": "SQF"
+	},
+	".hqf": {
+		"lang": "SQF"
+	},
+	".sql": {
+		"lang": "SQLPL"
+	},
+	".db2": {
+		"lang": "SQLPL"
+	},
+	".srt": {
+		"lang": "SRecode Template"
+	},
+	".sage": {
+		"lang": "Sage"
+	},
+	".sagews": {
+		"lang": "Sage"
+	},
+	".sls": {
+		"lang": "SaltStack"
+	},
+	".sass": {
+		"lang": "Sass"
+	},
+	".scala": {
+		"lang": "Scala"
+	},
+	".kojo": {
+		"lang": "Scala"
+	},
+	".sbt": {
+		"lang": "Scala"
+	},
+	".scaml": {
+		"lang": "Scaml"
+	},
+	".scm": {
+		"lang": "Scheme"
+	},
+	".sch": {
+		"lang": "Scheme"
+	},
+	".sld": {
+		"lang": "Scheme"
+	},
+	".sps": {
+		"lang": "Scheme"
+	},
+	".ss": {
+		"lang": "Scheme"
+	},
+	".sci": {
+		"lang": "Scilab"
+	},
+	".sce": {
+		"lang": "Scilab"
+	},
+	".tst": {
+		"lang": "Scilab"
+	},
+	".self": {
+		"lang": "Self"
+	},
+	".shader": {
+		"lang": "ShaderLab"
+	},
+	".sh": {
+		"lang": "Shell"
+	},
+	".bash": {
+		"lang": "Shell"
+	},
+	".bats": {
+		"lang": "Shell"
+	},
+	".cgi": {
+		"lang": "Shell"
+	},
+	".command": {
+		"lang": "Shell"
+	},
+	".fcgi": {
+		"lang": "Shell"
+	},
+	".ksh": {
+		"lang": "Shell"
+	},
+	".sh.in": {
+		"lang": "Shell"
+	},
+	".tmux": {
+		"lang": "Shell"
+	},
+	".tool": {
+		"lang": "Shell"
+	},
+	".zsh": {
+		"lang": "Shell"
+	},
+	".sh-session": {
+		"lang": "ShellSession"
+	},
+	".shen": {
+		"lang": "Shen"
+	},
+	".sl": {
+		"lang": "Slash"
+	},
+	".ice": {
+		"lang": "Slice"
+	},
+	".slim": {
+		"lang": "Slim"
+	},
+	".smali": {
+		"lang": "Smali"
+	},
+	".st": {
+		"lang": "Smalltalk"
+	},
+	".tpl": {
+		"lang": "Smarty"
+	},
+	".sp": {
+		"lang": "Solidity"
+	},
+	".sma": {
+		"lang": "Solidity"
+	},
+	".nut": {
+		"lang": "Squirrel"
+	},
+	".stan": {
+		"lang": "Stan"
+	},
+	".ML": {
+		"lang": "Standard ML"
+	},
+	".fun": {
+		"lang": "Standard ML"
+	},
+	".sig": {
+		"lang": "Standard ML"
+	},
+	".sml": {
+		"lang": "Standard ML"
+	},
+	".do": {
+		"lang": "Stata"
+	},
+	".ado": {
+		"lang": "Stata"
+	},
+	".doh": {
+		"lang": "Stata"
+	},
+	".ihlp": {
+		"lang": "Stata"
+	},
+	".mata": {
+		"lang": "Stata"
+	},
+	".matah": {
+		"lang": "Stata"
+	},
+	".sthlp": {
+		"lang": "Stata"
+	},
+	".styl": {
+		"lang": "Stylus"
+	},
+	".sss": {
+		"lang": "SugarSS"
+	},
+	".sc": {
+		"lang": "SuperCollider"
+	},
+	".scd": {
+		"lang": "SuperCollider"
+	},
+	".swift": {
+		"lang": "Swift"
+	},
+	".sv": {
+		"lang": "SystemVerilog"
+	},
+	".svh": {
+		"lang": "SystemVerilog"
+	},
+	".vh": {
+		"lang": "SystemVerilog"
+	},
+	".8xp": {
+		"lang": "TI Program"
+	},
+	".8xk": {
+		"lang": "TI Program"
+	},
+	".8xk.txt": {
+		"lang": "TI Program"
+	},
+	".8xp.txt": {
+		"lang": "TI Program"
+	},
+	".tla": {
+		"lang": "TLA"
+	},
+	".txl": {
+		"lang": "TXL"
+	},
+	".tcl": {
+		"lang": "Tcl"
+	},
+	".adp": {
+		"lang": "Tcl"
+	},
+	".tm": {
+		"lang": "Tcl"
+	},
+	".tcsh": {
+		"lang": "Tcsh"
+	},
+	".csh": {
+		"lang": "Tcsh"
+	},
+	".tex": {
+		"lang": "TeX"
+	},
+	".aux": {
+		"lang": "TeX"
+	},
+	".bbx": {
+		"lang": "TeX"
+	},
+	".bib": {
+		"lang": "TeX"
+	},
+	".cbx": {
+		"lang": "TeX"
+	},
+	".dtx": {
+		"lang": "TeX"
+	},
+	".ins": {
+		"lang": "TeX"
+	},
+	".lbx": {
+		"lang": "TeX"
+	},
+	".ltx": {
+		"lang": "TeX"
+	},
+	".mkii": {
+		"lang": "TeX"
+	},
+	".mkiv": {
+		"lang": "TeX"
+	},
+	".mkvi": {
+		"lang": "TeX"
+	},
+	".sty": {
+		"lang": "TeX"
+	},
+	".toc": {
+		"lang": "TeX"
+	},
+	".tea": {
+		"lang": "Tea"
+	},
+	".t": {
+		"lang": "Terra"
+	},
+	".txt": {
+		"lang": "Text"
+	},
+	".no": {
+		"lang": "Text"
+	},
+	".textile": {
+		"lang": "Textile"
+	},
+	".thrift": {
+		"lang": "Thrift"
+	},
+	".tu": {
+		"lang": "Turing"
+	},
+	".twig": {
+		"lang": "Twig"
+	},
+	".ts": {
+		"lang": "TypeScript"
+	},
+	".tsx": {
+		"lang": "TypeScript"
+	},
+	".upc": {
+		"lang": "Unified Parallel C"
+	},
+	".s": {
+		"lang": "Unix Assembly"
+	},
+	".uno": {
+		"lang": "Uno"
+	},
+	".uc": {
+		"lang": "UnrealScript"
+	},
+	".ur": {
+		"lang": "UrWeb"
+	},
+	".urs": {
+		"lang": "UrWeb"
+	},
+	".vcl": {
+		"lang": "VCL"
+	},
+	".vhdl": {
+		"lang": "VHDL"
+	},
+	".vhd": {
+		"lang": "VHDL"
+	},
+	".vhf": {
+		"lang": "VHDL"
+	},
+	".vhi": {
+		"lang": "VHDL"
+	},
+	".vho": {
+		"lang": "VHDL"
+	},
+	".vhs": {
+		"lang": "VHDL"
+	},
+	".vht": {
+		"lang": "VHDL"
+	},
+	".vhw": {
+		"lang": "VHDL"
+	},
+	".vala": {
+		"lang": "Vala"
+	},
+	".vapi": {
+		"lang": "Vala"
+	},
+	".v": {
+		"lang": "Verilog"
+	},
+	".veo": {
+		"lang": "Verilog"
+	},
+	".vim": {
+		"lang": "Vim script"
+	},
+	".vmb": {
+		"lang": "Vim script"
+	},
+	".vb": {
+		"lang": "Visual Basic"
+	},
+	".bas": {
+		"lang": "Visual Basic"
+	},
+	".frm": {
+		"lang": "Visual Basic"
+	},
+	".frx": {
+		"lang": "Visual Basic"
+	},
+	".vba": {
+		"lang": "Visual Basic"
+	},
+	".vbhtml": {
+		"lang": "Visual Basic"
+	},
+	".vbs": {
+		"lang": "Visual Basic"
+	},
+	".volt": {
+		"lang": "Volt"
+	},
+	".vue": {
+		"lang": "Vue"
+	},
+	".wast": {
+		"lang": "WebAssembly"
+	},
+	".wat": {
+		"lang": "WebAssembly"
+	},
+	".webidl": {
+		"lang": "WebIDL"
+	},
+	".x10": {
+		"lang": "X10"
+	},
+	".xc": {
+		"lang": "XC"
+	},
+	".xpl": {
+		"lang": "XProc"
+	},
+	".xproc": {
+		"lang": "XProc"
+	},
+	".xquery": {
+		"lang": "XQuery"
+	},
+	".xq": {
+		"lang": "XQuery"
+	},
+	".xql": {
+		"lang": "XQuery"
+	},
+	".xqm": {
+		"lang": "XQuery"
+	},
+	".xqy": {
+		"lang": "XQuery"
+	},
+	".xs": {
+		"lang": "XS"
+	},
+	".xslt": {
+		"lang": "XSLT"
+	},
+	".xsl": {
+		"lang": "XSLT"
+	},
+	".xojo_code": {
+		"lang": "Xojo"
+	},
+	".xojo_menu": {
+		"lang": "Xojo"
+	},
+	".xojo_report": {
+		"lang": "Xojo"
+	},
+	".xojo_script": {
+		"lang": "Xojo"
+	},
+	".xojo_toolbar": {
+		"lang": "Xojo"
+	},
+	".xojo_window": {
+		"lang": "Xojo"
+	},
+	".xtend": {
+		"lang": "Xtend"
+	},
+	".yar": {
+		"lang": "YARA"
+	},
+	".yara": {
+		"lang": "YARA"
+	},
+	".yasnippet": {
+		"lang": "YASnippet"
+	},
+	".y": {
+		"lang": "Yacc"
+	},
+	".yacc": {
+		"lang": "Yacc"
+	},
+	".yy": {
+		"lang": "Yacc"
+	},
+	".zep": {
+		"lang": "Zephir"
+	},
+	".zig": {
+		"lang": "Zig"
+	},
+	".zimpl": {
+		"lang": "Zimpl"
+	},
+	".zmpl": {
+		"lang": "Zimpl"
+	},
+	".zpl": {
+		"lang": "Zimpl"
+	},
+	".ec": {
+		"lang": "eC"
+	},
+	".eh": {
+		"lang": "eC"
+	},
+	".fish": {
+		"lang": "fish"
+	},
+	".mcfunction": {
+		"lang": "mcfunction"
+	},
+	".mu": {
+		"lang": "mupad"
+	},
+	".nc": {
+		"lang": "nesC"
+	},
+	".ooc": {
+		"lang": "ooc"
+	},
+	".q": {
+		"lang": "q"
+	},
+	".rst": {
+		"lang": "reStructuredText"
+	},
+	".rest": {
+		"lang": "reStructuredText"
+	},
+	".rest.txt": {
+		"lang": "reStructuredText"
+	},
+	".rst.txt": {
+		"lang": "reStructuredText"
+	},
+	".sed": {
+		"lang": "sed"
+	},
+	".wdl": {
+		"lang": "wdl"
+	},
+	".wisp": {
+		"lang": "wisp"
+	}
+	,
+    ".prg": {
+		"lang": "xBase"
+	},
+    ".prw": {
+		"lang": "xBase"
+	}
+}

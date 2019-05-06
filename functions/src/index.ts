@@ -1,11 +1,19 @@
 import * as functions from 'firebase-functions'
 import * as admin from 'firebase-admin'
 
-import { GithubUpdateHandler } from './test';
+import { BitbucketUpdateHandler, Test } from './test';
 
 admin.initializeApp();
 //const cors = require('cors')({ origin: true });
 
-exports.GithubUpdate = functions.https.onCall(async (data, context)=>{
-    await GithubUpdateHandler(data, context, admin)
-  });
+exports.BitbucketUpdate = functions.https.onCall(async (data, context) => {
+  await BitbucketUpdateHandler(data, context, admin)
+});
+
+// exports.BitbucketLanguageUpdate = functions.https.onCall(async (data, context) => {
+//   await BitbucketLanguageHandler(data, context, admin)
+// })
+
+exports.Test = functions.https.onCall(async (data, context) => {
+  Test(data, context, admin)
+});
